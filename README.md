@@ -1,6 +1,7 @@
 # Learn Vim with Docsify
 
 ##Goal
+
 Vim 사용법에 대하여 학습할 수 있는 문서들을 Docsify 기반 정적 웹사이트로 구성함으로써, 누구나 쉽게 Vim을 배울 수 있는 문서화 프로젝트를 진행했습니다.
 
 - 주요 목표:
