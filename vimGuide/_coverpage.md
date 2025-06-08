@@ -11,4 +11,4 @@
 
 
 [GitHub](https://github.com/Kim-Juhyeong/Learn-Vim)
-[Get Started](#Headline)
+[Get Started](#learn-vim-the-smart-way)
