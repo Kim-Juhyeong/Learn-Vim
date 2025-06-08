@@ -41,4 +41,6 @@ Listening at http://localhost:3000
     - ctrl + d 로 컨테이너 종료
 
 디렉토리 구조
+
+
 ![Screenshot 2025-06-08 230516](https://github.com/user-attachments/assets/06f81f2d-e903-4910-bd82-e63bb02adc1b)
