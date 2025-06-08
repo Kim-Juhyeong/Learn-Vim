@@ -24,17 +24,34 @@ Vim 사용법에 대하여 학습할 수 있는 문서들을 Docsify 기반 정�
 1. Docker Image 설치
 
 2. Docker Container 생성
-- docker run -it -p 3000:3000 --name [컨테이너이름] final_2023040004:v1
+    - docker run -it -p 3000:3000 --name [컨테이너이름] final_2023040004:v1
 
 3. 리포지토리 이동 후 docsify 실행
-- cd ~/Learn-Vim/
-- docsify serve ./vimGuide/
+    - cd ~/Learn-Vim/
+    - docsify serve ./vimGuide/
 
 4. 로컬 호스트 접속
 Serving /root/Learn-Vim/vimGuide now.
 Listening at http://localhost:3000
-- 브라우저로 위 로컬 호스트에 접속
+    - 브라우저로 위 로컬 호스트에 접속
 
 5. 종료
-- ctrl + c 로 로컬 호스트 종료
-- ctrl + d 로 컨테이너 종료
+    - ctrl + c 로 로컬 호스트 종료
+    - ctrl + d 로 컨테이너 종료
+
+디렉토리 구조
+.
+└── ./Learn-Vim
+    ├── ./Learn-Vim/LICENSE.txt
+    ├── ./Learn-Vim/README.md
+    └── ./Learn-Vim/vimGuide
+        ├── ./Learn-Vim/vimGuide/README.md
+        ├── ./Learn-Vim/vimGuide/_coverpage.md
+        ├── ./Learn-Vim/vimGuide/_sidebar.md
+        ├── ./Learn-Vim/vimGuide/ch00_read_this_first.md
+        ├── ./Learn-Vim/vimGuide/ch01_starting_vim.md
+        ├── ./Learn-Vim/vimGuide/ch02_buffers_windows_tabs.md
+        |   ...
+        ├── ./Learn-Vim/vimGuide/ch29_plugin_example_writing-a-titlecase-plugin.md
+        ├── ./Learn-Vim/vimGuide/images
+        └── ./Learn-Vim/vimGuide/index.html
