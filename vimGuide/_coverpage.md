@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](_images/logo.jpg)
+![logo](images/logo.jpg)
 
 #Vim Guide<small>1.0<small>
 
@@ -11,4 +11,6 @@
 
 
 [GitHub](https://github.com/Kim-Juhyeong/Learn-Vim)
+      
+ 
 [Get Started](#learn-vim-the-smart-way)
