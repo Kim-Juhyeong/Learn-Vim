@@ -1,5 +1,5 @@
 - 시작하기
-  - [이 가이드를 읽기 전에](ch00_read_this_first.md)
+  - [가이드](ch00_read_this_first.md)
   - [Vim 시작하기](ch01_starting_vim.md)
 
 - 기본 개념
