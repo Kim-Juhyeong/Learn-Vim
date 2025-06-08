@@ -46,7 +46,7 @@ Listening at http://localhost:3000
     ├── ./Learn-Vim/LICENSE.txt
     ├── ./Learn-Vim/README.md
     └── ./Learn-Vim/vimGuide
-        ├── ./Learn-Vim/vimGuide/README.md
+        ├── ./Learn-Vim/vimGuide/README.md    
         ├── ./Learn-Vim/vimGuide/_coverpage.md
         ├── ./Learn-Vim/vimGuide/_sidebar.md
         ├── ./Learn-Vim/vimGuide/ch00_read_this_first.md
